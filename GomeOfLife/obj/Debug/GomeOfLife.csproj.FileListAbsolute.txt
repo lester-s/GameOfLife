@@ -1,0 +1,14 @@
+D:\Projects\GameOfLife\GomeOfLife\bin\Debug\GomeOfLife.exe.config
+D:\Projects\GameOfLife\GomeOfLife\bin\Debug\GomeOfLife.exe
+D:\Projects\GameOfLife\GomeOfLife\bin\Debug\GomeOfLife.pdb
+D:\Projects\GameOfLife\GomeOfLife\obj\Debug\GomeOfLife.csprojResolveAssemblyReference.cache
+D:\Projects\GameOfLife\GomeOfLife\obj\Debug\MainWindow.g.cs
+D:\Projects\GameOfLife\GomeOfLife\obj\Debug\App.g.cs
+D:\Projects\GameOfLife\GomeOfLife\obj\Debug\GomeOfLife_MarkupCompile.cache
+D:\Projects\GameOfLife\GomeOfLife\obj\Debug\GomeOfLife_MarkupCompile.lref
+D:\Projects\GameOfLife\GomeOfLife\obj\Debug\MainWindow.baml
+D:\Projects\GameOfLife\GomeOfLife\obj\Debug\GomeOfLife.g.resources
+D:\Projects\GameOfLife\GomeOfLife\obj\Debug\GomeOfLife.Properties.Resources.resources
+D:\Projects\GameOfLife\GomeOfLife\obj\Debug\GomeOfLife.csproj.GenerateResource.Cache
+D:\Projects\GameOfLife\GomeOfLife\obj\Debug\GomeOfLife.exe
+D:\Projects\GameOfLife\GomeOfLife\obj\Debug\GomeOfLife.pdb
